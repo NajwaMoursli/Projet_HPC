@@ -1,6 +1,8 @@
 # Projet_HPC
 Projet scolaire de HPC pour résoudre un système avec matrice creuse.
-Contributeaurs: Achille BAUCHER et Najwa MOURSLI
+
+
+Contributeurs: Achille BAUCHER et Najwa MOURSLI
 
 # Info utiles
 * Site du projet : https://cbouilla.github.io//HPC.html
